@@ -3,15 +3,19 @@ package com.dineshkrish;
 public class Hello {
 
 	public void sayHello() {
-		
+
 		System.out.println("Hello");
-		
-	
+
 	}
-public void display(){
+
+	public void display() {
+
+		System.out.println("Welcome");
+	}
 	
-	System.out.println("Welcome");
-}
+	public void sayBye() {
+		
+		System.out.println("Bye");
+	}
 
 }
-
