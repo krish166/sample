@@ -15,7 +15,7 @@ public class Hello {
 	
 	public void sayBye() {
 		
-		System.out.println("Bye");
+		System.out.println("Bye everybody");
 	}
 
 }
